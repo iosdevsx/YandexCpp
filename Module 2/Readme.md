@@ -3,6 +3,7 @@
 * [Task 1](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-1)
 * [Task 2](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-2)
 * [Task 3](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-3)
+* [Task 4](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-4)
 
 ### Task 1
 N белочек нашли K орешков и решили разделить их поровну. Определите, сколько орешков достанется каждой белочке.
@@ -40,3 +41,14 @@ N белочек нашли K орешков и решили разделить 
 753
 ##### Sample Output:
 3
+***
+### Task 4
+Дано двузначное число. Выведите его первую цифру (число десятков)
+##### Формат входных данных
+На вход дается натуральное двузначное число N.
+##### Формат выходных данных
+Выведите одно целое число - ответ на задачу.
+##### Sample Input:
+42
+##### Sample Output:
+4
