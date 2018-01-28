@@ -1,8 +1,8 @@
 ## Модуль 2 - Целые числа
 
-* Task 1
-* Task 2
-* Task 3
+* [Task 1](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-1)
+* [Task 2](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-2)
+* [Task 3](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-3)
 
 ### Task 1
 N белочек нашли K орешков и решили разделить их поровну. Определите, сколько орешков достанется каждой белочке.
