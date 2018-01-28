@@ -1,10 +1,19 @@
 ## Модуль 2 - Целые числа
 
-* [Task 1](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-1)
-* [Task 2](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-2)
-* [Task 3](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-3)
-* [Task 4](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-4)
-* [Task 5](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#task-5)
+* [Белочки и орешки - 1](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%91%D0%B5%D0%BB%D0%BE%D1%87%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80%D0%B5%D1%88%D0%BA%D0%B8---1-1)
+* [Белочки и орешки - 2](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%91%D0%B5%D0%BB%D0%BE%D1%87%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80%D0%B5%D1%88%D0%BA%D0%B8---2-2)
+* [Последняя цифра](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F-%D1%86%D0%B8%D1%84%D1%80%D0%B0-3)
+* [Первая цифра двузначного числа](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D1%86%D0%B8%D1%84%D1%80%D0%B0-%D0%B4%D0%B2%D1%83%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-4)
+* [Число десятков](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%A7%D0%B8%D1%81%D0%BB%D0%BE-%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%BA%D0%BE%D0%B2-5)
+* [Сумма цифр трехзначного числа](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%A1%D1%83%D0%BC%D0%BC%D0%B0-%D1%86%D0%B8%D1%84%D1%80-%D1%82%D1%80%D0%B5%D1%85%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-6)
+* [Следующее четное](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%A1%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B5%D0%B5-%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D0%B5-7)
+* [Парты](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%9F%D0%B0%D1%80%D1%82%D1%8B-8)
+* [Покупка пирожков](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0-%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%BE%D0%B2-9)
+* [Электронные часы](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%87%D0%B0%D1%81%D1%8B-10)
+* [Разность времен](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD-11)
+* [МКАД](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%9C%D0%9A%D0%90%D0%94-12)
+* [Симметричное число](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%A1%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%BE%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%BE-13)
+* [Улитка](https://github.com/iosdevsx/YandexCpp/blob/master/Module%202/Readme.md#%D0%A3%D0%BB%D0%B8%D1%82%D0%BA%D0%B0-14)
 
 ### Белочки и орешки - 1 (#1)
 N белочек нашли K орешков и решили разделить их поровну. Определите, сколько орешков достанется каждой белочке.
