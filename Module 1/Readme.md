@@ -1,4 +1,4 @@
-## Модуль 2 - Целые числа
+## Целые числа
 
 * [Белочки и орешки - 1](https://github.com/iosdevsx/YandexCpp/tree/master/Module%202#%D0%91%D0%B5%D0%BB%D0%BE%D1%87%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80%D0%B5%D1%88%D0%BA%D0%B8---1-1)
 * [Белочки и орешки - 2](https://github.com/iosdevsx/YandexCpp/tree/master/Module%202#%D0%91%D0%B5%D0%BB%D0%BE%D1%87%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80%D0%B5%D1%88%D0%BA%D0%B8---2-2)
